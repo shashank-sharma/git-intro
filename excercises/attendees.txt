@@ -1,5 +1,6 @@
 Enter your names below:
 
+<<<<<<< HEAD
 Seat 01: Vaibhav Shrivastava
 Seat 02: Rubin Shah
 Seat 11: Rishi Chawla
@@ -10,3 +11,7 @@ Seat 16: Gautam Patidar
 Seat 21: Nancy Agrawal
 Seat 23: Naman Juneja
 Seat 24: Neha Pahuja
+=======
+Seat 01: spider
+ Shrivastava
+>>>>>>> 5dfb67a... added spider
